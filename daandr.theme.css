@@ -23,6 +23,7 @@
   --backgroundOpacity: 0.25;
   --homeImage: url('https://www.cjoint.com/doc/23_06/MFoegSGnNK2_Logo-linkin-park.png');
   --homeImageSize: cover;
+  --customFont: gg sans;
   --themeColor1: #3E3E3E;
   --themeColor2: #C4C4C4;
   --backgroundCode: rgba(0 0 0 /.5);
